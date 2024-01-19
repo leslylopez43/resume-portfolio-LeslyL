@@ -90,7 +90,7 @@ header {
 }
 
 .logo {
-    background: url("../img/Screenshot\ 2023-11-09\ at\ 23.22.16.png");
+    background: url("../img/horse.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,13 +343,13 @@ footer {
 
 .contact-heading {
     font-family: "Exo", sans-serif;
-    font-weight: 300;
+    font-weight: 30;
     margin-top: 25px;
     margin-bottom: 20px;
 }
 
 .center-form {
-    padding-top: 10px;
+    padding-top: px;
     margin: 0 auto;
     max-width: 70%;
 }
